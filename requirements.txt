@@ -10,3 +10,5 @@ scipy
 librosa
 numba
 ffmpeg
+kaldi_io
+SoundFile
