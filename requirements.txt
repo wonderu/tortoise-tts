@@ -10,5 +10,6 @@ scipy
 librosa
 numba
 ffmpeg
-kaldi_io
-SoundFile
+torchaudio
+torchvision
+torchtext
